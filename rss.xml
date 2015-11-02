@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[StartUREngines]]></title>
+        <description><![CDATA[StartUREngines]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Mon, 02 Nov 2015 14:32:58 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Partied on Monday, slept on Tuesday]]></title>
+            <description><![CDATA[<article><h1>Partied on Monday, slept on Tuesday</h1><p>Venue: Autodromo Hermanos Rodriguez, Mexico City Dates: 30 October - 1 November Coverage: Live text and radio commentary of all three days, plus BBC TV highlights of qualifying and the race. Full details here. It's four days since I won the world championship in Austin on Sunday but I'm still not sure whether it has properly sunk in yet.</p><img src="http://c.files.bbci.co.uk/DC99/production/_86337465_86337464.jpg"></article>]]></description>
+            <link>http://www.bbc.co.uk/sport/0/features/34650536</link>
+            <guid isPermaLink="false">f5ef1cc6-808b-4492-9887-4adcdf179d90</guid>
+            <pubDate>Mon, 02 Nov 2015 14:32:50 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
