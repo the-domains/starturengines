@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[StartUREngines]]></title>
         <description><![CDATA[StartUREngines]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/starturengines/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 02 Nov 2015 14:32:58 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 02 Nov 2015 14:40:20 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/starturengines/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Rossi & Lorenzo's epic title fight all comes down to this]]></title>
+            <description><![CDATA[<article><h1>Rossi & Lorenzo's epic title fight all comes down to this</h1><p>The 2015 MotoGP™ World Championship title fight between Valentino Rossi and Jorge Lorenzo is set for an epic conclusion at the Valencia GP.</p><img src="http://photos.motogp.com/2015/11/02/46-rossi-99-lorenzo_lg4_3521.big.jpg"></article>]]></description>
+            <link>http://www.motogp.com/en/news/2015/11/02/rossi-lorenzo-s-epic-title-fight-all-comes-down-to-this/188665</link>
+            <guid isPermaLink="false">c5cb3cf7-a271-48f7-9f7c-52aae98d26b2</guid>
+            <pubDate>Mon, 02 Nov 2015 14:39:03 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Partied on Monday, slept on Tuesday]]></title>
             <description><![CDATA[<article><h1>Partied on Monday, slept on Tuesday</h1><p>Venue: Autodromo Hermanos Rodriguez, Mexico City Dates: 30 October - 1 November Coverage: Live text and radio commentary of all three days, plus BBC TV highlights of qualifying and the race. Full details here. It's four days since I won the world championship in Austin on Sunday but I'm still not sure whether it has properly sunk in yet.</p><img src="http://c.files.bbci.co.uk/DC99/production/_86337465_86337464.jpg"></article>]]></description>
